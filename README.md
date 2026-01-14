@@ -1,7 +1,7 @@
 # **The Road to Vision Zero**
 
 ## **Authors**:
-Bobby Daly, DS; Michael Romanski, DS; Nicholas Tjandra, DS
+Robert Daly, DS; Michael Romanski, DS; Nicholas Tjandra, DS
 
 ![image](https://github.com/nickthetj/DSC-Phase3-Project/assets/126971652/9e88f1d6-2353-4ad1-95ec-1f7329edad13)
 
@@ -76,7 +76,7 @@ Thank you for taking the time to review our recommendations.
 We hope this information helps and we look forward to working with you more on the next steps.
 
 Sincerely, <br>
-Bobby Daly, Michael Romanski, Nicholas Tjandra <br>
+Robert Daly, Michael Romanski, Nicholas Tjandra <br>
 
 ## Further Details
 Further details are available in the full analysis presented in the [Jupyter Notebook](https://github.com/nickthetj/DSC-Phase3-Project/blob/main/Final_EDA_Notebook.ipynb). 
