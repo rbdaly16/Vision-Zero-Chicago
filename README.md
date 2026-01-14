@@ -89,6 +89,6 @@ Further details are available in the full analysis presented in the [Jupyter Not
 ├── LICENSE
 ├── .gitignore
 ├── .DS_Store
-├── A Predictive Analysis to Fatal Traffic Crashes in Chicago.pdf
+├── A Predictive Analysis of Fatal Traffic Crashes in Chicago.pdf
 └── Final EDA Notebook.ipynb
 ```
