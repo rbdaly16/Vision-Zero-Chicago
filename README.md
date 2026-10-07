@@ -80,6 +80,7 @@ Robert Daly, Michael Romanski, Nicholas Tjandra <br>
 
 ## Further Details
 Further details are available in the full analysis presented in the [Jupyter Notebook](https://github.com/nickthetj/DSC-Phase3-Project/blob/main/Final_EDA_Notebook.ipynb). 
+See our presentation [here!](https://www.youtube.com/watch?si=nQMl9WNnnF5rCmVa&t=1157&v=0UXYrxgU7dE&feature=youtu.be)
 
 ## Repository Structure
 ```
